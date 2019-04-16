@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaudoosho.devonbray.com/sitemap.xml
